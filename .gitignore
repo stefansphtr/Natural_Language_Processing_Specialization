@@ -3,3 +3,9 @@ __pycache__/
 
 # Ignore large dataset
 /C3-Natural_Language_Processing_with_Sequence_Models/W1/Lab/data/
+
+# Ignore model directory
+/C3-Natural_Language_Processing_with_Sequence_Models/W1/Assignment/model/
+
+# Ignore models directory
+/C3-Natural_Language_Processing_with_Sequence_Models/W1/Assignment/models/
