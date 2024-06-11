@@ -9,3 +9,6 @@ __pycache__/
 
 # Ignore models directory
 /C3-Natural_Language_Processing_with_Sequence_Models/W1/Assignment/models/
+
+# Ignore large dataset on C3W2 Assignment
+/C3-Natural_Language_Processing_with_Sequence_Models/W2/Assignment/data/
