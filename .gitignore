@@ -18,3 +18,6 @@ __pycache__/
 
 # Ignore the large dataset
 /C4-Natural_Language_Processing_with_Attention_Models/W1/Lab/data/
+
+# Ignore large dataset
+/C4-Natural_Language_Processing_with_Attention_Models/W1/Assignment/por-eng/
