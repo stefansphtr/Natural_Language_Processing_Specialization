@@ -24,3 +24,6 @@ __pycache__/
 
 # Ignore large dataset
 /C3-Natural_Language_Processing_with_Sequence_Models/W3/Assignment/questions.csv
+
+# Ignore Large dataset
+/C4-Natural_Language_Processing_with_Attention_Models/W2/Assignment/data/
