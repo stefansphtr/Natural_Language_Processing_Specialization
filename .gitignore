@@ -30,3 +30,9 @@ __pycache__/
 
 # Ignore Large image size
 /C4-Natural_Language_Processing_with_Attention_Models/W2/Assignment/images/
+
+# Ignore model directory
+/C4-Natural_Language_Processing_with_Attention_Models/W3/Lab/distilbert-base-cased-distilled-squad/
+
+# Ignore tydiqa dataset
+/C4-Natural_Language_Processing_with_Attention_Models/W3/Lab/tydiqa_data/
