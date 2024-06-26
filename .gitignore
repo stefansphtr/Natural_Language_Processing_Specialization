@@ -36,3 +36,12 @@ __pycache__/
 
 # Ignore tydiqa dataset
 /C4-Natural_Language_Processing_with_Attention_Models/W3/Lab/tydiqa_data/
+
+# Ignore large dataset
+/C4-Natural_Language_Processing_with_Attention_Models/W3/Assignment/data/
+
+# Ignore large models
+/C4-Natural_Language_Processing_with_Attention_Models/W3/Assignment/models/
+
+# Ignore large pretrained model
+/C4-Natural_Language_Processing_with_Attention_Models/W3/Assignment/pretrained_models/
