@@ -60,19 +60,19 @@ This Specialization will equip you with machine learning basics and state-of-the
 
 ```mermaid
 flowchart TD
-    style B fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#add8e6,stroke:#333,stroke-width:2px,color:#000
     B["💬 Natural Language Processing Specialization"]
     B-->C
-    style C fill:#bbf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5, 5
+    style C fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
     C[🚫 Natural Language Processing with Classification and Vector Spaces]
     B-->D
-    style D fill:#bdf,stroke:#333,stroke-width:2px
+    style D fill:#6495ED,stroke:#333,stroke-width:2px,color:#000
     D(⏳ Natural Language Processing with Probabilistic Models);
     B-->E
-    style E fill:#fdfd96,stroke:#333,stroke-width:2px
+    style E fill:#1E90FF,stroke:#333,stroke-width:2px,color:#000
     E(🔄 Natural Language Processing with Sequence Models);
     B-->F
-    style F fill:#80cbc4,stroke:#333,stroke-width:2px
+    style F fill:#00BFFF,stroke:#333,stroke-width:2px,color:#000
     F(📸 Natural Language Processing with Attention Models)
     click B "https://www.coursera.org/specializations/natural-language-processing" "Tooltip for a link"
     click C "https://www.coursera.org/learn/classification-vector-spaces-in-nlp" "Tooltip for a link"
